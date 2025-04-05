@@ -9,17 +9,29 @@ Windows на которых работает макрос - win10 (2H22 и ни�
 Оружия:
 
 ・AK-47 | Holo + 8x + 16x
+
 ・LR-300 | Holo + 8x + 16x
+
 ・M249 | Holo + 8x + 16x
+
 ・HMLMG | Holo + 8x + 16x
+
 ・M39 Rifle | Holo + 8x + 16x
+
 ・Semi-Auto Rifle | Holo + 8x + 16x
+
 ・MP5A4 | Holo + 8x + 16x
+
 ・Thompson | Holo + 8x + 16x
+
 ・Custom SMG | Holo + 8x + 16x
+
 ・M92 Pistol | Holo + 8x + 16x
+
 ・Python Revolver | Holo + 8x + 16x
+
 ・Semi-Automatic Pistol (P250) | Holo + 8x + 16x
+
 ・Revolver | Silencer
 
 Макрос включается\отключается на боковые кнопки вашей мыши 
